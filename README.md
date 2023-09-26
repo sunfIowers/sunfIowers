@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/20/92/bb/2092bbe2fcd751500ec7c397de828440.jpg" width="555" >
+<img src="https://i.pinimg.com/564x/20/92/bb/2092bbe2fcd751500ec7c397de828440.jpg" width="430" >
 
 PONYTOWN INFORMATION
 
